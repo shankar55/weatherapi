@@ -6,7 +6,7 @@ It displays the temperature and weathercondition in a city using openweatherapi.
 ## 🛠 Skills
 HTML, Node.JS,Express.JS...
 
-## Buit With
+## Built With
 -Express
 
 ## Documentation
